@@ -1,0 +1,10 @@
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\bin\Debug\ChatApplication.exe.config
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\bin\Debug\ChatApplication.exe
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\bin\Debug\ChatApplication.pdb
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.csprojAssemblyReference.cache
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.Form1.resources
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.Properties.Resources.resources
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.csproj.GenerateResource.cache
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.exe
+C:\Users\Tabeeb\Desktop\.NET-Applications\ChatApplication\obj\Debug\ChatApplication.pdb
