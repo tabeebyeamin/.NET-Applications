@@ -1,2 +1,2 @@
 # .NET and C# Applications
-Various Applications Created Using C# and .NET Framework. Console Apps, WinForms, Client Server, Sockets etc.
+Various Applications Created Using C# and .NET Framework. Consists of Console Applications, WinForms Applications and soon, Web Applications. I try use concepts like Client Server, Sockets, Databases whenever possible.
